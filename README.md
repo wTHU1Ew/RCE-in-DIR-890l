@@ -112,4 +112,6 @@ if __name__=="__main__":
 ```
 
 ## Result:
+i just kill `ddns` for an example. We can kill more processes by using POC above.
+
 <img src="./ddos.png" style="width:250px">
